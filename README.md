@@ -1,6 +1,16 @@
 ##Get Help 	From The Awesome People Of Github 
 
-Have a problem you can't find solution on Stack Overflow. Then ask it here. The Heros of Github would come and fix and your problem. 
+Have a problem you can't find solution on Stack Overflow. Then ask it here. The Heros of Github would come and fix your problem. 
 
+###Choose the programming language to see the latest unanswered Questions
 
-[Javascript](https://github.com/hackerkid/hero/labels/Javascript)[PHP](https://github.com/hackerkid/hero/labels/PHP)[C#](https://github.com/hackerkid/hero/labels/C#)[Python](https://github.com/hackerkid/hero/labels/Python)[CSS](https://github.com/hackerkid/hero/labels/CSS)
+* [Javascript](https://github.com/hackerkid/hero/labels/Javascript)
+* [PHP](https://github.com/hackerkid/hero/labels/PHP)
+* [C#](https://github.com/hackerkid/hero/labels/C#)
+* [Python](https://github.com/hackerkid/hero/labels/Python)
+* [CSS](https://github.com/hackerkid/hero/labels/CSS)
+
+###Click [here](https://github.com/hackerkid/hero/issues/new) to ask a new Question
+
+Tag the programming language along with your issue. Make sure to search the Internet for an existing solutions before asking the question. 
+
