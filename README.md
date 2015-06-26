@@ -1,4 +1,4 @@
-##Get Help 	From The Awesome People Of Github 
+##Hero: Get Help 	From The Awesome People Of Github 
 
 Have a problem you can't find solution on Stack Overflow. Then ask it here. The Heros of Github would come and fix your problem. 
 
@@ -10,11 +10,6 @@ Have a problem you can't find solution on Stack Overflow. Then ask it here. The 
 <a href="https://github.com/hackerkid/hero/labels/Python"><img src="https://github.com/hackerkid/hero/blob/master/images/python.png"></a>
 <a href="https://github.com/hackerkid/hero/labels/CSS"><img src="https://github.com/hackerkid/hero/blob/master/images/css.png"></a>
 <a href="https://github.com/hackerkid/hero/labels/jQuery"><img src="https://github.com/hackerkid/hero/blob/master/images/jquery.png"></a>
-* [Javascript](https://github.com/hackerkid/hero/labels/Javascript)
-* [PHP](https://github.com/hackerkid/hero/labels/PHP)
-* [C#](https://github.com/hackerkid/hero/labels/C#)
-* [Python](https://github.com/hackerkid/hero/labels/Python)
-* [CSS](https://github.com/hackerkid/hero/labels/CSS)
 
 ###Click [here](https://github.com/hackerkid/hero/issues/new) to ask a new Question
 
