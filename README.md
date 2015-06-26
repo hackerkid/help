@@ -4,6 +4,12 @@ Have a problem you can't find solution on Stack Overflow. Then ask it here. The 
 
 ###Choose the programming language to see the latest unanswered Questions
 
+<a href="https://github.com/hackerkid/hero/labels/Javascript"><img src="https://github.com/hackerkid/hero/blob/master/images/javascript.png"></a>
+<a href="https://github.com/hackerkid/hero/labels/PHP"><img src="https://github.com/hackerkid/hero/blob/master/images/php.png"></a>
+<a href="https://github.com/hackerkid/hero/labels/C#"><img src="https://github.com/hackerkid/hero/blob/master/images/c%23.png"></a>
+<a href="https://github.com/hackerkid/hero/labels/Python"><img src="https://github.com/hackerkid/hero/blob/master/images/python.png"></a>
+<a href="https://github.com/hackerkid/hero/labels/CSS"><img src="https://github.com/hackerkid/hero/blob/master/images/css.png"></a>
+<a href="https://github.com/hackerkid/hero/labels/jQuery"><img src="https://github.com/hackerkid/hero/blob/master/images/jquery.png"></a>
 * [Javascript](https://github.com/hackerkid/hero/labels/Javascript)
 * [PHP](https://github.com/hackerkid/hero/labels/PHP)
 * [C#](https://github.com/hackerkid/hero/labels/C#)
