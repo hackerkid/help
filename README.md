@@ -15,5 +15,5 @@ Have a problem you can't find solution on Stack Overflow. Then ask it here. The 
 
 Tag the programming language along with your issue. Make sure to search the Internet for an existing solutions before asking the question. 
 
-###Want to be a super hero? Click [here](https://github.com/hackerkid/hero/subscription) getting alert when a devloper is in trouble. 
+###Want to be a super hero? Click [here](https://github.com/hackerkid/hero/subscription) for getting alert when a devloper is in trouble. 
 
