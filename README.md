@@ -13,6 +13,8 @@ Have a problem you can't find solution on Stack Overflow. Then ask it here. The 
 
 ###Click [here](https://github.com/hackerkid/hero/issues/new) to ask a new Question
 
+* The moderators would tag your question accordingly. 
+* Duplicate questions would be closed without any warning.
 
 ###Want to be a super hero? Click [here](https://github.com/hackerkid/hero/subscription) for getting alert when a devloper is in trouble. 
 
